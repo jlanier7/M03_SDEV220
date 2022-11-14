@@ -51,7 +51,7 @@ not included for this assignment
 
 from Vehicle import *
 
-# no variables to initialize
+# initializing variables
 
 vehTypeAcceptable = ('car',)
 doorsAcceptable = ('2', '4')
